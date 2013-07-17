@@ -1,0 +1,23 @@
+{
+  "name": "silly-sql",
+  "version": "1.0.0",
+  "description": "SQL Query Construction Toolset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goodybag/silly-sql.git"
+  },
+  "keywords": [
+    "sql",
+    "postgres",
+    "string",
+    "builder"
+  ],
+  "author": "Paul Frazee",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "1794a15cb81f74cf3749007b51955bb1f9f292d6"
+}
