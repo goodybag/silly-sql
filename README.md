@@ -1,6 +1,6 @@
 # Silly SQL
 
-SQL string builder helper library for node
+SQL Query Construction Toolset
 
 Basic usage:
 
